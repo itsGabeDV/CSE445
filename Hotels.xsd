@@ -2,7 +2,7 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 		   elementFormDefault="qualified">
 	<xs:element name = "Hotels">
-		<complexType>
+		<xs:complexType>
 			<xs:sequence>
 				<xs:element name ="Hotel" maxOccurs="unbounded">
 					<xs:complexType>
@@ -22,11 +22,11 @@
 								<xs:attribute name="NearestAirport" type="xs:string" use="required"/>
 							</xs:element>
 						</xs:sequence>
-						<xs:element name="Rating" type="xs:string" minOccurs="0"/>
+						<xs:element name="Rating" type="xs:string" minOccurs="1"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
-		</complexType>
+		</xs:complexType>
 	</xs:element>
 
 </xs:schema>
