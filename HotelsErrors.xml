@@ -13,18 +13,19 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+
 	<Hotel>
-	<Name>Hyatt Place Flagstaff</Name>
-	<Phone>928-433-6930</Phone>
-	<Address NearestAirport="Flagstaff Pulliam Airport">
-		<Number>397</Number>
-		<Street>S Malpais Lane</Street>
-		<City>Flagstaff</City>
-		<State>AZ</State>
-		<Zip>86001</Zip>
-	</Address>
-	<Rating>3.6</Rating>
-</Hotel>
+		<Name>Hyatt Place Flagstaff</Name>
+		<Phone>928-433-6930</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>397</Number>
+			<Street>S Malpais Lane</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+		<Rating>3.6</Rating>
+		</Hotel>
 
 	<Hotel>
 		<Name>Fairfield by Marriott Inn &amp; Suites Phoenix West</Name>
