@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/itsGabeDV/CSE445/main/Hotels.xsd">
-	<Hotel>
+	<Hotel Rating ="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -11,10 +11,9 @@
 			<State>AZ</State>
 			<Zip>85281</Zip>
 		</Address>
-		<Rating>4.2</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating ="3.6">
 		<Name>Hyatt Place Flagstaff</Name>
 		<Phone>928-433-6930</Phone>
 		<Address NearestAirport="Flagstaff Pulliam Airport"> 
@@ -24,10 +23,9 @@
 			<State>AZ</State>
 			<Zip>86001</Zip>
 		</Address>
-		<Rating>3.6</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.4">
 		<Name>Fairfield by Marriott Inn &amp; Suites Phoenix West</Name>
 		<Phone>623-936-6603</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor">
@@ -37,10 +35,9 @@
 			<State>AZ</State>
 			<Zip>85353</Zip>
 		</Address>
-		<Rating>4.4</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.2">
 		<Name>Hilton Los Angeles/Universal City</Name>
 		<Phone>818-506-2500</Phone>
 		<Phone>888-446-6677</Phone>
@@ -51,10 +48,9 @@
 			<State>CA</State>
 			<Zip>91608</Zip>
 		</Address>
-		<Rating>4.2</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="3.4">
 		<Name>Days Inn &amp; Suites by Wyndham Albuquerque North</Name>
 		<Phone>505-796-5928</Phone>
 		<Address NearestAirport="Albuquerque Intl Airport">
@@ -64,10 +60,9 @@
 			<State>NM</State>
 			<Zip>87109</Zip>
 		</Address>
-		<Rating>3.4</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating ="4.2">
 		<Name>Gila River Resorts &amp; Casinos - Vee Quiva</Name>
 		<Phone>602-698-8645</Phone>
 		<Phone>800-946-4452</Phone>
@@ -78,10 +73,9 @@
 			<State>AZ</State>
 			<Zip>85339</Zip>
 		</Address>
-		<Rating>4.2</Rating>
 	</Hotel> <!--Hotel 5-->
 
-		<Hotel>
+		<Hotel Rating="4.0">
 			<Name>DoubleTree by Hilton Phoenix North</Name>
 			<Phone>602-997-5900</Phone>
 			<Address NearestAirport="Phoenix Sky Harbor">
@@ -91,10 +85,9 @@
 				<State>AZ</State>
 				<Zip>85051</Zip>
 			</Address>
-			<Rating>4.0</Rating>
 		</Hotel>
 
-		<Hotel>
+		<Hotel Rating="3.4">
 			<Name>Chena Hot Springs Resort</Name>
 			<Phone>907-451-8104</Phone>
 			<Address NearestAirport="Fairbanks Intl Airport">
@@ -104,10 +97,9 @@
 				<State>AK</State>
 				<Zip>99712</Zip>
 			</Address>
-			<Rating>3.4</Rating>
 		</Hotel>
 
-		<Hotel>
+		<Hotel Rating="4.1">
 			<Name>Yosemite Southgate</Name>
 			<Phone>559-683-3555</Phone>
 			<Address NearestAirport="Fresno Air Terminal">
@@ -117,10 +109,9 @@
 				<State>CA</State>
 				<Zip>93644</Zip>
 			</Address>
-			<Rating>4.1</Rating>
 		</Hotel>
 
-		<Hotel>
+		<Hotel Rating="4.7">
 			<Name>Drury Plaza Hotel</Name>
 			<Phone>855-630-2395</Phone>
 			<Address NearestAirport="Phoenix Sky Harbor">
@@ -130,10 +121,9 @@
 				<State>AZ</State>
 				<Zip>85284</Zip>
 			</Address>
-			<Rating>4.7</Rating>
 		</Hotel>
 
-		<Hotel>
+		<Hotel Rating ="4.1">
 			<Name>Caesars Palace</Name>
 			<Phone>702-867-4511</Phone>
 			<Address NearestAirport="Harry Reid International Airport">
@@ -143,6 +133,5 @@
 				<State> NV</State>
 				<Zip>89109</Zip>
 			</Address>
-			<Rating>4.1</Rating>
 		</Hotel>
 </Hotels>
