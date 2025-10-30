@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=https://github.com/itsGabeDV/CSE445/blob/main/Hotels.xml HotelsErrors.xml>
-	<Hotel>
-		<Name>Hyatt Place Flagstaff</Name>
-		<Phone>928-433-6930</Phone>
-		<Address NearestAirport="Flagstaff Pulliam Airport">
-			<Number>397</Number>
-			<Street>S Malpais Lane</Street>
-			<City>Flagstaff</City>
-			<State>AZ</State>
-			<Zip>86001</Zip>
-		</Address>
-		<Rating>3.6</Rating>
-	</Hotel>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/itsGabeDV/CSE445/main/Hotels.xsd">
+	<Name>Hyatt Place Flagstaff</Name>
+	<Phone>928-433-6930</Phone>
+	<Address NearestAirport="Flagstaff Pulliam Airport">
+		<Number>397</Number>
+		<Street>S Malpais Lane</Street>
+		<City>Flagstaff</City>
+		<State>AZ</State>
+		<Zip>86001</Zip>
+	</Address>
+	<Rating>3.6</Rating>
+</Hotel>
 
 	<Hotel>
 		<Name>Fairfield by Marriott Inn &amp; Suites Phoenix West</Name>
